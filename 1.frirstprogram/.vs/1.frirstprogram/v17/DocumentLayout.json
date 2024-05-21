@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\L\u1EADp Tr\u00ECnh C\u002B\u002B\\1.frirstprogram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{287FF433-A6A2-45F7-9D6E-6D1D96263156}|1.frirstprogram\\1.frirstprogram.vcxproj|D:\\L\u1EADp Tr\u00ECnh C\u002B\u002B\\1.frirstprogram\\1.frirstprogram\\1.frirstprogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{287FF433-A6A2-45F7-9D6E-6D1D96263156}|1.frirstprogram\\1.frirstprogram.vcxproj|solutionrelative:1.frirstprogram\\1.frirstprogram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1.frirstprogram.cpp",
+              "DocumentMoniker": "D:\\L\u1EADp Tr\u00ECnh C\u002B\u002B\\1.frirstprogram\\1.frirstprogram\\1.frirstprogram.cpp",
+              "RelativeDocumentMoniker": "1.frirstprogram\\1.frirstprogram.cpp",
+              "ToolTip": "D:\\L\u1EADp Tr\u00ECnh C\u002B\u002B\\1.frirstprogram\\1.frirstprogram\\1.frirstprogram.cpp",
+              "RelativeToolTip": "1.frirstprogram\\1.frirstprogram.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T13:01:48.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
